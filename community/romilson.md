@@ -4,9 +4,14 @@
 
 ## Conecte-se comigo
 
+
 ![Romilson](https://media.licdn.com/dms/image/D4E35AQHnXPy9a0iCYA/profile-framedphoto-shrink_100_100/0/1681847449986?e=1689541200&v=beta&t=y80xqus7eJwpRlCHSkPJKmXR-rchl0XMD_gxn85wDQc)
 
+Olá, pessoal!
 
+Estou convidando vocês a se juntarem a mim no meu perfil no GitHub, onde vamos compartilhar conhecimentos e aprendizados da programação DIO (Digital Innovation One).
+
+Se você está interessado em aprender mais sobre a programação DIO e expandir seus conhecimentos, vamos aprender juntos e construir com a nossa incrível comunidade de desenvolvedores!
 
 ## Habilidades
 
@@ -16,6 +21,9 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django)
+
+![Rstudio](https://img.shields.io/badge/rstudio-darkblue?style=for-the-badge&logo=rstudio)
+
 
 ![Markdown](https://img.shields.io/badge/Markdown-blue?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
